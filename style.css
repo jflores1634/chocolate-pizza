@@ -1,0 +1,65 @@
+html {
+  width: 950px;
+  margin: auto;
+}
+
+.header-logo {
+  margin-top: 20px;
+  display: inline-block;
+  width: 300px;
+}
+
+#logo {
+  float:left;
+  z-index: 0;
+  margin-right: 10px;
+}
+
+.delicious {
+  font-size: 25px;
+  z-index: 1;
+}
+
+.links {
+  position: inline;
+  margin-top: 30px;
+}
+
+p {
+  text-indent: 3em;
+}
+
+hr.angled-style {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
+button {
+  float: right;
+  background: #000;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+#van-text {
+  float: left;
+}
+
+#van {
+  float: left;
+}
+
+#sub-van {
+  float: right;
+}
+
+#copy-footer {
+  text-align: center;
+}
+
+footer.footer {
+  display: inline-block;
+}
